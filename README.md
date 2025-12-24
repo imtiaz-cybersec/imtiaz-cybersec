@@ -2,16 +2,17 @@
 
 
 
+ **`I am a full-time Security engineering student `** ,
+ 
+> " I care about engineering security that works when it matters most! "
 
- [I am a full-time Security engineering student] I care about engineering security that works when it matters most! 
+## Career Objective
 
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+While exploring digital architecture, networks, and emerging AI systems, I observed that rapid technological evolution often leaves security gaps behind. This realization activated my engineering mindset to focus on identifying vulnerabilities, understanding threats, and practicing defense-driven engineering, with the goal of transitioning into a Junior Security Engineer role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,8 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SOC Automation Project
 
   
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## 📜 Technical Training & Credentials
+> "Documenting my rigorous path through industry-standard engineering tracks."
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -60,4 +61,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## 📨 Connect with Me
+I am always open to discussing all security operations in the cyber world.
 
+
+<a href="https://www.linkedin.com/in/imtiaz-in-cyberworld/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
