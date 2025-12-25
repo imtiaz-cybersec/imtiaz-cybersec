@@ -17,6 +17,8 @@ While exploring digital architecture, networks, and emerging AI systems, I obser
 
 | Technical Skill | Applied In |
 | :--- | :--- |
+| **Blockchain & Data Integrity** | [CipherChain ](https://github.com/imtiaz-cybersec/CipherChain) |
+| **Merkle Tree & Hashing Logic** | [CipherChain ](https://github.com/imtiaz-cybersec/CipherChain) |
 | **Signature-Based Detection (C++)** | [Phishing Link Detector](https://github.com/imtiaz-cybersec/Phishing-Link-Detector-Signature-Based-) |
 | **Logic Design & Security Tooling** | [Phishing Link Detector](https://github.com/imtiaz-cybersec/Phishing-Link-Detector-Signature-Based-) |
 | **SIEM Implementation & Log Analysis** | *Detection Lab (In Development)* |
@@ -26,6 +28,15 @@ While exploring digital architecture, networks, and emerging AI systems, I obser
 ---
 
 ##  Project
+
+### ⛓️ [CipherChain: Cryptographic Ledger](https://github.com/imtiaz-cybersec/CipherChain)
+**`Python`** **`Cryptography`** **`Data Integrity`**
+
+A mini-blockchain implementation focused on immutable event logging and data auditing.
+* **Cryptographic Verification:** Using SHA-256 to link blocks and ensure chain validity.
+* **Merkle Tree Implementation:** Optimized integrity checks for data sets.
+* **Tamper Detection:** Automated simulation identifying unauthorized modifications.
+  
 ### [Phishing Link Detector (Signature-Based)](https://github.com/imtiaz-cybersec/Phishing-Link-Detector-Signature-Based-)
 **`C++`** **`Detection Engineering`** **`Defensive Scripting`**
 
