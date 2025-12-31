@@ -17,9 +17,7 @@ While exploring digital architecture, networks, and emerging AI systems, I obser
 
 | Technical Skill | Applied In |
 | :--- | :--- |
-| **Blockchain & Data Integrity** | [CipherChain ](https://github.com/imtiaz-cybersec/CipherChain) |
-| **Merkle Tree & Hashing Logic** | [CipherChain ](https://github.com/imtiaz-cybersec/CipherChain) |
-| **Signature-Based Detection (C++)** | [Phishing Link Detector](https://github.com/imtiaz-cybersec/Phishing-Link-Detector-Signature-Based-) |
+| ** Data Integrity & Hashing Logic** | [CipherChain ](https://github.com/imtiaz-cybersec/CipherChain) |
 | **Logic Design & Security Tooling** | [Phishing Link Detector](https://github.com/imtiaz-cybersec/Phishing-Link-Detector-Signature-Based-) |
 | **SIEM Implementation & Log Analysis** | *Detection Lab (In Development)* |
 | **SOAR & Security Automation** | *SOC Automation Lab (Research)* |
